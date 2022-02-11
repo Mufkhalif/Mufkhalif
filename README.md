@@ -1,7 +1,6 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;
-### My name is **Mufkhalif**.
+### Hi !!
 
-I’m interested in Mobile developing, Android and IOS 
+I’m interested in Mobile developing like Android or IOS 
 
 ### Github Statistic
 <p align="left">
