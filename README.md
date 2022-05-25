@@ -1,3 +1,3 @@
 ### Hi !!
 
-I’m interested in Mobile developing like Android or IOS 
+I’m interested in Mobile developing 📱
